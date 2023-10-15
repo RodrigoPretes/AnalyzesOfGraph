@@ -39,7 +39,7 @@ O resultado final inclui a visualização da rede com as comunidades destacadas 
 
 Pegando como exemplo qualquer uma das comunidades que podem ser mostradas (0 - 15), 
 Poderiamos criar um fluxo de informação de caracteristicas somente a essa comunidade que possuem caracteristicas em comum 
-Seja: compras, pontos de interesses: politica, economia, esportes. 
+Seja: compras, pontos de interesses: politica, economia, esportes. .
 
 Graças a uma simples analise de um grafo fornecido pela conectividade entre usuarios da rede facebook. 
 
