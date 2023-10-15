@@ -7,11 +7,9 @@ Este repositório contém um projeto de análise de uma rede social utilizando P
 1. [Introdução](#introdução)
 2. [Requisitos](#requisitos)
 3. [Importação de Dados](#importação-de-dados)
-4. [Criação do Grafo](#criação-do-grafo)
-5. [Exploração da Rede](#exploração-da-rede)
-6. [Detecção de Comunidades](#detecção-de-comunidades)
-7. [Resultados](#resultados)
-8. [Conclusão](#conclusão)
+4. [Descrição](#descrição)
+5. [Resultados](#resultados)
+6. [Conclusões Finais](#conclusões-finais)
 
 ## Introdução
 
